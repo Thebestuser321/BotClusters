@@ -8,11 +8,11 @@
         "run": "bot.py"
     },
     "bot2": {
-        "source": "https://github.com/Thebestuser321/Txt-Leech-Bot",
+        "source": "https://github.com/Thebestuser321/Text-leech-bot",
         "branch": "main",
         "env": {
             "BOT_TOKEN": "7890436613:AAGjpLBXBQr8_9Js-SKp2DQMBkfpsXJs07s"
         },
-        "run": "main.py"
+        "run": "modules/main.py"
     }
 }
