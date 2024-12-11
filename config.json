@@ -14,53 +14,5 @@
             "BOT_TOKEN": "7890436613:AAGjpLBXBQr8_9Js-SKp2DQMBkfpsXJs07s"
         },
         "run": "main.py"
-    },
-    "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
     }
 }
